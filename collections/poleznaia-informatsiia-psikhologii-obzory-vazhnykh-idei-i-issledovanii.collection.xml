@@ -1,3 +1,19 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11164</md:content-id>  <md:title>Полезная информация психологии (обзоры важных идей и исследований)</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>ru</md:language>      <md:uuid>61f13414-77e6-4e8e-ac8b-971fe4387e60</md:uuid>
-<md:slug>poleznaia-informatsiia-psikhologii-obzory-vazhnykh-idei-i-issledovanii</md:slug>
-</metadata>  <col:content>          <col:module document="m33327"/>                            <col:module document="m33328"/>                            <col:module document="m33329"/>                            <col:module document="m33330"/>                            <col:module document="m33331"/>                            <col:module document="m33332"/>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook" authors="Mark Pettinelli">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11164</md:content-id>
+    <md:title>&#x41F;&#x43E;&#x43B;&#x435;&#x437;&#x43D;&#x430;&#x44F; &#x438;&#x43D;&#x444;&#x43E;&#x440;&#x43C;&#x430;&#x446;&#x438;&#x44F; &#x43F;&#x441;&#x438;&#x445;&#x43E;&#x43B;&#x43E;&#x433;&#x438;&#x438; (&#x43E;&#x431;&#x437;&#x43E;&#x440;&#x44B; &#x432;&#x430;&#x436;&#x43D;&#x44B;&#x445; &#x438;&#x434;&#x435;&#x439; &#x438; &#x438;&#x441;&#x441;&#x43B;&#x435;&#x434;&#x43E;&#x432;&#x430;&#x43D;&#x438;&#x439;)</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>ru</md:language>
+    <md:uuid>61f13414-77e6-4e8e-ac8b-971fe4387e60</md:uuid>
+    <md:slug>poleznaia-informatsiia-psikhologii-obzory-vazhnykh-idei-i-issledovanii</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m33327"/>
+    <col:module document="m33328"/>
+    <col:module document="m33329"/>
+    <col:module document="m33330"/>
+    <col:module document="m33331"/>
+    <col:module document="m33332"/>
+  </col:content>
+</col:collection>
